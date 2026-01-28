@@ -1,0 +1,5 @@
+*.gem
+.bundle
+tmp
+stinkingtoe_test
+Gemfile.lock
